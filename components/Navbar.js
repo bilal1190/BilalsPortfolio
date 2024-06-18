@@ -54,7 +54,7 @@ const Navbar = () => {
     <div className="cursor-pointer absolute right-0 top-6 mx-5 flex">
     <button className="inline-flex items-center bg-purple-400 text-yellow-300 border-0 py-1 px-2 focus:outline-none hover:bg-purple-500 hover:text-white rounded text-sm mt-4 md:mt-0"
     onClick={() =>
-      window.open(" https://www.fiverr.com/virtualvirsion", "_blank")} 
+      window.open("https://www.fiverr.com/bilaltipuu?public_mode=true", "_blank")} 
     >HireMe
       <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-1" viewBox="0 0 24 24">
         <path d="M5 12h14M12 5l7 7-7 7"></path>
